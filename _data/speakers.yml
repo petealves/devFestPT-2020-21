@@ -1,43 +1,43 @@
 
 
--
-  id: 1
-  name: "Renan"
-  surname: "Araújo"
-  company: "Dashdash"
-  title: "UI engineer"
-  bio: 'Brasileiro morando no Porto sempre apaixonado em criar coisas bonitas com lógica e matematica. Gosta de todo tipo de desenvolvimento de UI, de apps a jogos. Mantenedor open source e contribuidor de projetos como Flutter e Flame. Ama a WEB e Flutter.'
-  thumbnailUrl: RenanAraujo.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/__caraujo__"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/renancaraujo/"}
--
-  id: 2
-  name: "Isabel"
-  surname: "Costa"
-  company: "Globality"
-  title: "Software Engineer"
-  bio: 'Isabel Costa trabalha como Software Engineer, no Reino Unido. Ela adora partilhar conhecimento sobre como começou a contribuir para Open Source, e ajudar a comunidade a sentir-se mais a vontade para contribuir. Ela participou no programa Google Summer of Code como estudante em 2018, e este ano como mentora e admin na comunidade AnitaB.org Open Source. Atualmente, ela trabalha na Globality em Londres. No seu tempo livre, para além do trabalho em Open Source, ela é uma das organizadoras da comunidade AnitaB.org London e mentora no bootcamp Black Codher.'
-  thumbnailUrl: isabel-costa.png
-  rockstar: true
-  social:
-    - {name: "website", link: "https://isabelcosta.github.io"}
-    - {name: "twitter", link: "https://twitter.com/isabelcmdcosta"}
-    - {name: "github", link: "https://github.com/isabelcosta"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/isabelcmdcosta"}
--
-  id: 3
-  name: "Andre"
-  surname: "Garzia"
-  company: "Mozilla"
-  title: "Software Engineer"
-  bio: 'Andre é um Mozilla TechSpeaker focado em tecnologias de descentralização e é um membro ativo da comunidade Secure Scuttlebutt. Nos últimos anos, ele publicou livros sobre o Firefox OS e administrou um programa de alfabetização na web em bairros vulneráveis ​​do Rio. Ele acredita firmemente na capacitação por meio da experimentação tecnológica. Ele agora mora em Londres com sua esposa, gatos e mais placas de IoT do que ele pode usar.'
-  thumbnailUrl: andre-garzia.png
-  rockstar: true
-  social:
-    - {name: "website", link: "http://andregarzia.com/about.html"}
-    - {name: "twitter", link: "https://twitter.com/soapdog"}
+#-
+#  id: 1
+#  name: "Renan"
+#  surname: "Araújo"
+#  company: "Dashdash"
+#  title: "UI engineer"
+#  bio: 'Brasileiro morando no Porto sempre apaixonado em criar coisas bonitas com lógica e matematica. Gosta de todo tipo de desenvolvimento de UI, de apps a jogos. Mantenedor open source e contribuidor de projetos como Flutter e Flame. Ama a WEB e Flutter.'
+#  thumbnailUrl: RenanAraujo.jpg
+#  rockstar: true
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/__caraujo__"}
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/renancaraujo/"}
+#-
+#  id: 2
+#  name: "Isabel"
+#  surname: "Costa"
+#  company: "Globality"
+#  title: "Software Engineer"
+#  bio: 'Isabel Costa trabalha como Software Engineer, no Reino Unido. Ela adora partilhar conhecimento sobre como começou a contribuir para Open Source, e ajudar a comunidade a sentir-se mais a vontade para contribuir. Ela participou no programa Google Summer of Code como estudante em 2018, e este ano como mentora e admin na comunidade AnitaB.org Open Source. Atualmente, ela trabalha na Globality em Londres. No seu tempo livre, para além do trabalho em Open Source, ela é uma das organizadoras da comunidade AnitaB.org London e mentora no bootcamp Black Codher.'
+#  thumbnailUrl: isabel-costa.png
+#  rockstar: true
+#  social:
+#    - {name: "website", link: "https://isabelcosta.github.io"}
+#    - {name: "twitter", link: "https://twitter.com/isabelcmdcosta"}
+#    - {name: "github", link: "https://github.com/isabelcosta"}
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/isabelcmdcosta"}
+#-
+#  id: 3
+#  name: "Andre"
+#  surname: "Garzia"
+#  company: "Mozilla"
+#  title: "Software Engineer"
+#  bio: 'Andre é um Mozilla TechSpeaker focado em tecnologias de descentralização e é um membro ativo da comunidade Secure Scuttlebutt. Nos últimos anos, ele publicou livros sobre o Firefox OS e administrou um programa de alfabetização na web em bairros vulneráveis ​​do Rio. Ele acredita firmemente na capacitação por meio da experimentação tecnológica. Ele agora mora em Londres com sua esposa, gatos e mais placas de IoT do que ele pode usar.'
+#  thumbnailUrl: andre-garzia.png
+#  rockstar: true
+#  social:
+#    - {name: "website", link: "http://andregarzia.com/about.html"}
+#    - {name: "twitter", link: "https://twitter.com/soapdog"}
 
 -
   id: 101

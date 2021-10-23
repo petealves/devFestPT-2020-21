@@ -27,7 +27,7 @@ organizerAlternateName: "Google Developer Group Portugal"
 organizerDescription: "A Google Developers Group, mais conhecida como GDG, é uma iniciativa promovida pela Google que pretende ser um mecanismo para a criação de comunidades locais, cujo principal objectivo é difundir conhecimento tecnológico e não tecnológico pelos seus membros.Promovemos um ambiente inclusivo, uma vez que qualquer pessoa interessada por tecnologia são bem-vindos a participar. Neste momento, existem mais de 10 GDGs diferentes espalhadas por Portugal, todas estas com a mesma nobre missão."
 organizerEmail: "gdgportugal@googlegroups.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "https://gdgportugal.xyz/"
+organizerLink: ""
 
 # Head
 metaKeywords: "evento, gdg, devfestPT, google, programação, android, chrome, desenvolvedores, portugal, Lisboa, Coimbra, Porto, Madeira, Bragança, Castelo Branco, Covilhã, Faro, Leiria"
@@ -36,7 +36,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.1.png"
 
 # Documents
-c4pUrl: "https://docs.google.com/forms/d/e/1FAIpQLSeXKLM009l-XOhal9jOzA2mybtJtZK3uehNDZb9LtVvWLWrPg/viewform"
+c4pUrl: "https://docs.google.com/forms/d/e/1FAIpQLSdj7JfA9LTd-IMkCeANN_mD7Ikp-EP5Nm5sl6_yjW8EYgg1Tw/viewform"
 c4sponsorsUrl: "mailto:gdgportugal@googlegroups.com?subject=Quero tornar-me parceiro do DevFest Portugal 2020"
 
 
@@ -56,11 +56,11 @@ navigationLinks:
 # Hero Block
 heroImage: "GDGDevFest_Website_Banner.png"
 heroTitle: "GDG DevFestPT <typeout> 2021"
-eventDate: "16 e 17 - outubro, 2020"
+eventDate: "26 e 27 - Novembro, 2021"
 typeoutTextValues: '"", "Portugal", "Lisboa", "Coimbra", "Porto", "Madeira", "Bragança", "Castelo Branco", "Covilhã", "Faro", "Leiria"'
 typeoutFallback: "Season"
 heroButtons:
- #- {link: "https://docs.google.com/forms/d/e/1FAIpQLSeXKLM009l-XOhal9jOzA2mybtJtZK3uehNDZb9LtVvWLWrPg/viewform?fbzx=4827670039339898202", text: "Inscrições para apresentações"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdj7JfA9LTd-IMkCeANN_mD7Ikp-EP5Nm5sl6_yjW8EYgg1Tw/viewform", text: "Inscrições para apresentações C4P"}
 
 # About Block
 aboutTitle: "Sobre o DevFest Portugal"
@@ -88,15 +88,15 @@ rockstarSpeakersButtonText: "Ver todos os oradores"
 # Location Block
 locationBlockTitle: "Localização"
 eventLocationName: "Evento Online"
-eventLocationLink: "https://gdg.community.dev/events/details/google-gdg-coimbra-presents-devfest-portugal-2020-with-gdg/#/"
+eventLocationLink: "https://gdg.community.dev/events/details/google-gdg-lisboa-presents-devfest-portugal-2021-with-gdg/"
 eventStreetAddress: "22 Teatral'na St"
 eventAddressLocality: "Lviv"
 eventAddressLocalityRegion: "Lvivska"
 eventPostalCode: "79000"
 eventAddressCountry: "Portugal"
-eventStartTime: "2020-10-17T14:00"
+eventStartTime: "2021-11-26T14:00"
 eventDoorTime: "09:00"
-eventEndTime: "2020-10-18T18:00"
+eventEndTime: "2021-11-27T18:00"
 eventPlaceCoordinates: "38.7436883, -9.1952226"
 mapCenterCoordinates: "38.7436883, -9.1952226"
 mapMobileCenterCoordinates: "38.7436883, -9.1952226"
@@ -180,7 +180,6 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "https://gdgportugal.xyz/", text: "GDG Portugal"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contactos"

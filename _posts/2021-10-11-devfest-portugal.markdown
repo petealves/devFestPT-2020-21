@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "DevFest Portugal 2020"
-date:   2020-09-01 09:00:00
+title:  "DevFest Portugal 2021"
+date:   2021-10-11 10:00:00
 isStaticPost: false
 ---
-DevFest Portugal 2020, irá realizar-se virtualmente, nos dias 16 e 17 Outubro!
+DevFest Portugal 2021, irá realizar-se virtualmente, nos dias 26 e 27 de Novembro!
 
 É com grande orgulho que nós, organizadores das Google Developers Group em Portugal, juntamo-nos e preparamos esta oferta à comunidade: Uma conferência em directo e na lingua Portuguesa. Dividida por dois dias e em horário nobre! 
 

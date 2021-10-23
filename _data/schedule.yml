@@ -1,6 +1,6 @@
  -
-   date: "2020-10-16"
-   dateReadable: "16 de Outubro"
+   date: "2021-11-26"
+   dateReadable: "26 de Novembro"
    tracks:
      -  {title: "Palestras", color: "#90be4e"}
 
@@ -36,8 +36,8 @@
        sessionIds: [003]
      }
  -
-   date: "2020-10-17"
-   dateReadable: "17 de Outubro"
+   date: "2021-11-27"
+   dateReadable: "27 de Novembro"
    tracks:
      - {title: "Palestras", color: "#90be4e"}
    timeslots:
